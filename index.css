@@ -1,0 +1,8 @@
+#parties .name {
+  font-weight: bold;
+  padding: 10px;
+}
+
+#parties .party {
+  border-color: black;
+}
